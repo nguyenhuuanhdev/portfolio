@@ -288,7 +288,7 @@ All portfolio content is managed through data files in the `utils/data/` folder:
 ```javascript
 export const personalData = {
   name: "YOUR NAME",
-  profile: "/profile.png", // Path to your profile image
+  profile: "/24.png", // Path to your profile image
   designation: "Software Developer", // Your job title
   description: "Your bio and introduction...", // About yourself
   email: "your.email@example.com",
@@ -591,3 +591,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ![GitHub forks](https://img.shields.io/github/forks/said7388/developer-portfolio?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/said7388/developer-portfolio)
 ![GitHub license](https://img.shields.io/github/license/said7388/developer-portfolio)
+# nguyenhuuanhdev
